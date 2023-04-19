@@ -1,2 +1,5 @@
 venv/
 *.csv
+*.snapshot
+*.pb
+*.metadata
