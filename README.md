@@ -27,6 +27,10 @@
 - ```cd /VideoCapture```
 - ```python VideoCapture.py```
 - This will cause a popup whereby your computer camera will be activated, and you can test what emotion is predicted from your face.
+- Make sure the following libraries are installed:
+- ```pip install opencv-python```
+- ```pip install tensorflow```
+- ```pip install keras```
 
 
 
