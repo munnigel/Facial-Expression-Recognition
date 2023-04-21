@@ -24,10 +24,9 @@
 
 5. VideoCapture
 - You can run the video capture file using:
-- ```
-- cd /VideoCapture
-- python VideoCapture.py
-- ```
+- ```cd /VideoCapture```
+- ```python VideoCapture.py```
+- This will cause a popup whereby your computer camera will be activated, and you can test what emotion is predicted from your face.
 
 
 
